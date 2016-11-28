@@ -1,0 +1,7 @@
+D:\Projects\SPAEFWEBAPI\Library\bin\Debug\Library.dll
+D:\Projects\SPAEFWEBAPI\Library\bin\Debug\Library.pdb
+D:\Projects\SPAEFWEBAPI\Library\bin\Debug\EntityFramework.dll
+D:\Projects\SPAEFWEBAPI\Library\bin\Debug\EntityFramework.SqlServer.dll
+D:\Projects\SPAEFWEBAPI\Library\obj\Debug\Library.csprojResolveAssemblyReference.cache
+D:\Projects\SPAEFWEBAPI\Library\obj\Debug\Library.dll
+D:\Projects\SPAEFWEBAPI\Library\obj\Debug\Library.pdb

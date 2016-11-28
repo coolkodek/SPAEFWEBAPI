@@ -1,0 +1,11 @@
+D:\Projects\SPAEFWEBAPI\DataModel\obj\Debug\DataModel.csprojResolveAssemblyReference.cache
+D:\Projects\SPAEFWEBAPI\DataModel\bin\Debug\DataModel.dll
+D:\Projects\SPAEFWEBAPI\DataModel\bin\Debug\DataModel.pdb
+D:\Projects\SPAEFWEBAPI\DataModel\bin\Debug\EntityFramework.dll
+D:\Projects\SPAEFWEBAPI\DataModel\bin\Debug\Library.dll
+D:\Projects\SPAEFWEBAPI\DataModel\bin\Debug\POCOModels.dll
+D:\Projects\SPAEFWEBAPI\DataModel\bin\Debug\Library.pdb
+D:\Projects\SPAEFWEBAPI\DataModel\bin\Debug\POCOModels.pdb
+D:\Projects\SPAEFWEBAPI\DataModel\obj\Debug\DataModel.dll
+D:\Projects\SPAEFWEBAPI\DataModel\obj\Debug\DataModel.pdb
+D:\Projects\SPAEFWEBAPI\DataModel\bin\Debug\EntityFramework.xml
