@@ -1,0 +1,4 @@
+D:\Projects\SPAEFWEBAPI\POCOModels\bin\Debug\POCOModels.dll
+D:\Projects\SPAEFWEBAPI\POCOModels\bin\Debug\POCOModels.pdb
+D:\Projects\SPAEFWEBAPI\POCOModels\obj\Debug\POCOModels.dll
+D:\Projects\SPAEFWEBAPI\POCOModels\obj\Debug\POCOModels.pdb
